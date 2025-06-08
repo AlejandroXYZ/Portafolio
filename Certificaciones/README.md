@@ -1,7 +1,7 @@
 ## 🏆 Certificaciones
 
 ### 🔐**Cisco Academy - Introduction to Cybersecurity**
-[![Intro to Cybersecurity](Cybersecurity_Cisco.jpg)  
+![Intro to Cybersecurity](Cybersecurity_Cisco.jpg)  
 
 
 🖇️**Link de Comprobación:**  (https://www.credly.com/badges/29aa5ad3-5735-40e2-a36e-78e429bda9da)
