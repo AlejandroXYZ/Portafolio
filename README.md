@@ -8,7 +8,7 @@ Soy un estudiante/apasionado por la tecnología con enfoque en **ciberseguridad,
 
 Este portafolio está en construcción — igual que mi carrera profesional. Gracias por visitarlo y ser parte de este proceso de crecimiento
 
-### Mi Entorno de Trabajo: 
+## Mi Entorno de Trabajo: 
 
 
 ![neofetch](./neofetch.jpg)
@@ -55,7 +55,7 @@ Actualmente me estoy enfocando en aprender y practicar:
 - 🛡️  Ciberseguridad y Pentesting aplicada a Inteligencia Artificial
 
 ---
-### 🏅 Certificaciones
+## 🏅 Certificaciones
 
 Encuentra mis **certificaciones y constancias de cursos** en la carpeta: [Certificaciones](./Certificaciones).
 
