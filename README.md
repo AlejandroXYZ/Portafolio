@@ -57,7 +57,11 @@ Actualmente me estoy enfocando en aprender y practicar:
 - 🛡️  Ciberseguridad y Pentesting aplicada a Inteligencia Artificial
 
 ---
+### 🏅 Certificaciones
 
+Encuentra mis **certificaciones y constancias de cursos** en la carpeta: [Certificaciones](./Certificaciones).
+
+---
 ## 🤝 Contacto y colaboración
 
 Estoy abierto a oportunidades de **prácticas, mentoría, colaboración en proyectos** o empleo en áreas afines a IT y ciberseguridad.
