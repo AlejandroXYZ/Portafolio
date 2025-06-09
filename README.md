@@ -36,12 +36,11 @@ Este portafolio tiene como finalidad:
 
 ## 🧩 Proyectos actuales
 
-| Proyecto             | Descripción                                                            | Tecnologías                 | Estado       |
-| -------------------- | ---------------------------------------------------------------------- | --------------------------- | ------------ |
-| `OmniPortScanner`    | Escáner de puertos simple y eficiente creado desde cero.               | Bash scripting, linux            | ✅ Terminado  |
-| `Bandit Walkthrough` | Guía paso a paso para el wargame Bandit de OverTheWire (sin spoilers). | Bash, Linux, Hacking básico | ✅ Terminado  |
-| `Infobash`           | Herramienta educativa de Bash para añadir y aprender comandos de linux | Bash scripting              | 🔜En proceso |
-| `BabelSQL`           | Diccionario español e inglés utilizando bases de datos                 | Bash scripting, SQLite      | En proceso   |
+| Proyecto             | Descripción                                                            | Tecnologías                 | Estado       |   Link     |
+| -------------------- | ---------------------------------------------------------------------- | --------------------------- | ------------ | ------------ |
+| `OmniPortScanner`    | Escáner de puertos simple y eficiente creado desde cero.               | Bash scripting, linux            | ✅ Terminado  | https://github.com/AlejandroXYZ/Omni-PortScanner|
+| `Infobash`           | Herramienta educativa de Bash para añadir y aprender comandos de linux | Bash scripting              | 🔜En proceso | https://github.com/AlejandroXYZ/infobash|
+| `BabelSQL`           | Diccionario español e inglés utilizando bases de datos                 | Bash scripting, SQLite      | ✅ Terminado | https://github.com/AlejandroXYZ/BabelSQL | 
 | `Coming soon...`     | Iré añadiendo más proyectos y CTF sobre la marcha                      | Próximamente                |              |
 
 ---
@@ -51,11 +50,9 @@ Este portafolio tiene como finalidad:
 Actualmente me estoy enfocando en aprender y practicar:
 
 
-- 🛡️ Ciberseguridad y Pentesting (especialmente Hacking Web)
+- 🛡️ Ciberseguridad y Pentesting (especialmente Hacking Web y IA )
 
 - 🐍 Programación en Python
-
-- 🧠 Inteligencia Artificial aplicada a la seguridad
 
 - 🛡️  Ciberseguridad y Pentesting aplicada a Inteligencia Artificial
 
@@ -66,6 +63,6 @@ Actualmente me estoy enfocando en aprender y practicar:
 Estoy abierto a oportunidades de **prácticas, mentoría, colaboración en proyectos** o empleo en áreas afines a IT y ciberseguridad.
 
 Si te interesa saber más sobre lo que hago o cómo puedo aportar a tu equipo, no dudes en contactarme:
-LinkedIn [perfil](https://LinkedIn.com/in/alejandroXYZ)
-correo [Gmail](emailto:alejandromdekuedit@gmail.com)
+LinkedIn https://LinkedIn.com/in/alejandroXYZ
+correo alejandromdekuedit@gmai.com
 celular: 0412-077-0944
