@@ -4,8 +4,6 @@
 
 Soy un estudiante/apasionado por la tecnología con enfoque en **ciberseguridad, pentesting, desarrollo y análisis técnico**, que está en constante formación. Este repositorio es un espacio vivo donde voy documentando y mostrando los proyectos y herramientas que voy desarrollando mientras avanzo en mi camino profesional.
 
-📍 [Perfil GitHub](https://github.com/AlejandroXYZ)
-
 ## 📝 Nota
 
 Este portafolio está en construcción — igual que mi carrera profesional. Gracias por visitarlo y ser parte de este proceso de crecimiento
