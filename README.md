@@ -57,7 +57,7 @@ Actualmente me estoy enfocando en aprender y practicar:
 
 - 🐍 Programación en Python
 
-- 🛡️  Ciberseguridad y Pentesting aplicada a Inteligencia Artificial
+- 🤖 Desarrollo de Inteligencia Artificial
 
 ---
 ## 🤝 Contacto y colaboración
