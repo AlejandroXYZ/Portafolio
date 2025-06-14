@@ -8,6 +8,11 @@ Soy un estudiante/apasionado por la tecnología con enfoque en **ciberseguridad,
 
 Este portafolio está en construcción — igual que mi carrera profesional. Gracias por visitarlo y ser parte de este proceso de crecimiento
 
+## 🏅 Certificaciones
+
+Encuentra mis **certificaciones y constancias de cursos** en la carpeta: [Certificaciones](./Certificaciones).
+
+
 ## Mi Entorno de Trabajo: 
 
 
@@ -53,11 +58,6 @@ Actualmente me estoy enfocando en aprender y practicar:
 - 🐍 Programación en Python
 
 - 🛡️  Ciberseguridad y Pentesting aplicada a Inteligencia Artificial
-
----
-## 🏅 Certificaciones
-
-Encuentra mis **certificaciones y constancias de cursos** en la carpeta: [Certificaciones](./Certificaciones).
 
 ---
 ## 🤝 Contacto y colaboración
