@@ -1,8 +1,8 @@
-## 🏆 Certificaciones
+## Certificaciones
 
-### 🔐**Cisco Academy - Python Fundamentals 1**
-![Python1](python1.jpg)
-![Python2](python2.jpg)  
+### 🐍**Cisco Academy - Python Fundamentals 1**
+![Python1](python1)
+![Python2](python2)  
 
 
 🖇️**Link de Comprobación:**  (https://www.credly.com/badges/7e7ef63e-1eb0-4af4-b974-72896097dc10
