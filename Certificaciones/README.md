@@ -1,5 +1,24 @@
 ## 🏆 Certificaciones
 
+### 🔐**Cisco Academy - Python Fundamentals 1**
+![Python1](python1.jpg)
+![Python2](python2.jpg)  
+
+
+🖇️**Link de Comprobación:**  (https://www.credly.com/badges/7e7ef63e-1eb0-4af4-b974-72896097dc10
+**Fecha**: Junio 2025
+**Horas:**  30 horas  
+
+####📚 Aprendizaje:
+  
+-  Conceptos fundamentales del Lenguaje de programación **Python**
+-  Flujos de Control, bucles , Arrays , Tipos de datos, variables
+-  Manejo de errores, excepciones, funciones 
+-  POO(Programación orientada a objetos), clases, herencia, Encapsulamiento...
+
+---
+
+
 ### 🔐**Cisco Academy - Introduction to Cybersecurity**
 ![Intro to Cybersecurity](Cybersecurity_Cisco.jpg)  
 
@@ -7,7 +26,7 @@
 🖇️**Link de Comprobación:**  (https://www.credly.com/badges/29aa5ad3-5735-40e2-a36e-78e429bda9da)
 **Fecha**: Junio 2025
 **Horas:**  6 horas  
-####📚 Aprendizaje:
+#### 📚 Aprendizaje:
   
 -  Conceptos fundamentales y Administración de Cyberseguridad
 -  Defensa de la red y ataques comunes
