@@ -1,16 +1,12 @@
 # 🧠 Portafolio de Proyectos | AlejandroXYZ | Alejandro Moncada
 
-¡Bienvenido/a a mi portafolio de proyectos en GitHub!
+¡Bienvenido/a a mi portafolio de proyectos!
 
-Soy un estudiante/apasionado por la tecnología con enfoque en **ciberseguridad, pentesting, desarrollo y análisis técnico**, que está en constante formación. Este repositorio es un espacio vivo donde voy documentando y mostrando los proyectos y herramientas que voy desarrollando mientras avanzo en mi camino profesional.
+Soy un estudiante/apasionado por la tecnología con enfoque en **automatización, desarrollo y ciberseguridad**, que está en constante formación. Este repositorio es un espacio vivo donde voy documentando y mostrando los proyectos y herramientas que voy desarrollando mientras avanzo en mi camino profesional.
 
 ## 📝 Nota
 
 Este portafolio está en construcción — igual que mi carrera profesional. Gracias por visitarlo y ser parte de este proceso de crecimiento
-
-## 🏅 Certificaciones
-
-Encuentra mis **certificaciones y constancias de cursos** en la carpeta: [Certificaciones](./Certificaciones).
 
 
 ## Mi Entorno de Trabajo: 
@@ -18,7 +14,7 @@ Encuentra mis **certificaciones y constancias de cursos** en la carpeta: [Certif
 
 ![neofetch](./neofetch.jpg)
 
-> 🔧 A pesar de las limitaciones de hardware, continúo aprendiendo y desarrollando herramientas funcionales, demostrando que lo importante es aprender, la actitud y las ganas de superarse.
+> 🔧 A pesar de las limitaciones de hardware, continúo aprendiendo y desarrollando herramientas funcionales, demostrando que lo importante es aprender, la actitud y las ganas de superarse. Además esto no es una limitación sino mas bien una ventaja competitiva obligandome a crear scripts altamente eficientes y con poco consumo de memoria que puedan correr en cualquier parte
 
 
 ---
@@ -37,6 +33,7 @@ Este portafolio tiene como finalidad:
 
 ---
 
+
 ## 🧩 Proyectos actuales
 
 | Proyecto             | Descripción                                                            | Tecnologías                 | Estado       |   Link     |
@@ -50,14 +47,12 @@ Este portafolio tiene como finalidad:
 
 ## 🧠 Tecnologías y Áreas de Interés
 
-Actualmente me estoy enfocando en aprender y practicar:
+Actualmente me estoy enfocado en:
 
+- 🐍 Automatización y desarrollo con Python (Scrapers, Crawlers, limpieza de datos, Bots,...)
 
-- 🛡️ Ciberseguridad y Pentesting (especialmente Hacking Web y IA )
+- 🤖 Desarrollo y Seguridad Web
 
-- 🐍 Programación en Python
-
-- 🤖 Desarrollo de Inteligencia Artificial
 
 ---
 ## 🤝 Contacto y colaboración
